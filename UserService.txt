@@ -1,2 +1,5 @@
 get user information!!!!!!!
 process the data
+
+
+create an avater for users
